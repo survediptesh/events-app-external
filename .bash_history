@@ -47,3 +47,11 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/survediptesh/events-app-external.git
 git push -u origin master
+git add .
+git commit -m "My first change"
+git pull
+git push origin master
+git push origin master
+git branch
+git branch new-feature-X
+git checkout new-feature-X
