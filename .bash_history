@@ -43,3 +43,7 @@ git push -u origin master
 git remote add origin https://github.com/survediptesh/events-app-external.git
 git push -u origin master
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/survediptesh/events-app-external.git
+git push -u origin master
